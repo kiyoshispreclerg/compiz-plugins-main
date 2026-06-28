@@ -22,6 +22,7 @@ xml_in_files =                \
 	expo.xml.in           \
 	ezoom.xml.in          \
 	focuspoll.xml.in      \
+	geochg.xml.in         \
 	mag.xml.in            \
 	mousepoll.xml.in      \
 	neg.xml.in            \

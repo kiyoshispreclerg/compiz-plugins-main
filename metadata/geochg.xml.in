@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<compiz>
+	<plugin name="geochg" useBcop="true">
+		<short>Geometry Change</short>
+		<long>Smoothly animates window geometry changes (resize and reposition), similar to KWin's Geometry Change effect. Triggered on maximise, snap-tiling, and any programmatic resize.</long>
+		<category>Effects</category>
+		<screen>
+			<option name="duration" type="int">
+				<short>Animation Duration</short>
+				<long>Duration of the geometry change animation in milliseconds.</long>
+				<default>200</default>
+				<min>50</min>
+				<max>800</max>
+			</option>
+		</screen>
+	</plugin>
+</compiz>

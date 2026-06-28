@@ -203,6 +203,7 @@ src/animation/Makefile
 src/colorfilter/Makefile
 src/expo/Makefile
 src/ezoom/Makefile
+src/geochg/Makefile
 src/jpeg/Makefile
 src/mag/Makefile
 src/mousepoll/Makefile

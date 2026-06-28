@@ -5,6 +5,7 @@ SUBDIRS = \
     expo           \
     ezoom          \
     focuspoll      \
+    geochg         \
     jpeg           \
     mag            \
     mousepoll      \
